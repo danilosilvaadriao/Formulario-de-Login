@@ -7,8 +7,7 @@ Este é um formulário de login criado com base em um vídeo do canal Girl Codin
 
 <h2> Gif do desafio: <h2> <br>
 
-
-
+![formulario de login](https://user-images.githubusercontent.com/82722083/154781960-1ebee1d0-6c01-4e9e-85c2-735db91e7440.gif)
   
    ## Tecnologias
   - [HTML5](https://html.spec.whatwg.org/multipage/)
